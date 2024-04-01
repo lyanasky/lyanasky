@@ -38,8 +38,8 @@ Overall, my objective is to make a meaningful impact in the field of technology 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| React js, Javascript, Bootstrap, Html, Css          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| React js, Javascript, Bootstrap, Html, Css          | <a href="https://github.com/lyanasky/weather-react"</a>|
+| Javascript, CSS, API HTML  | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
