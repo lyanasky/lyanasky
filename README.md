@@ -61,9 +61,10 @@ Overall, my objective is to make a meaningful impact in the field of technology 
 <div>
 <img src="https://img.shields.io/badge/-Advanced%20Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/-SheCodes.io-FF69B4?style=for-the-badge&logo=SheCodes&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cisco%20Networking-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" /> 
+<img src="https://img.shields.io/badge/-Saylor%20Academy%20Project%20Management-336699?style=for-the-badge&logo=Saylor%20Academy&logoColor=white" />
+<img src="https://img.shields.io/badge/-Saylor%20Academy%20Human%20Resources-336699?style=for-the-badge&logo=Saylor%20Academy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Saylor%20Academy%20Customer%20Service-336699?style=for-the-badge&logo=Saylor%20Academy&logoColor=white" /> 
 </div>
 
 ## Projects
