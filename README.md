@@ -34,16 +34,13 @@ In my free time, I enjoy exploring new technologies, staying up-to-date with ind
 Overall, my objective is to make a meaningful impact in the field of technology and data analysis by leveraging my skills, expertise, and passion to drive innovation, solve complex problems, and contribute to the success of organizations.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | React js, Javascript, Bootstrap, Html, Css          | <a href="https://github.com/lyanasky/weather-react"<React WeatherApp></a>|
 | Javascript, CSS, API HTML  |"<a href="https://github.com/lyanasky/Weather-App-Project"<WeatherApp > </a>|
-| R                                                | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| R                                                | <a href="https://lyanasky.github.io/bellabeat_project/"|
+| PowerApps, PowerBI, PowerPages, Power Virtual Agent, Dataverse      | <a href="https://flip.com/s/8H6yybEBvBUf"|
 
 ## Tools
 <div>
