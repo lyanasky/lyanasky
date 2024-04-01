@@ -40,7 +40,7 @@ Overall, my objective is to make a meaningful impact in the field of technology 
 |-----------------------------------------------|----------------------------|
 | React js, Javascript, Bootstrap, Html, Css          | <a href="https://github.com/lyanasky/weather-react"<React WeatherApp></a>|
 | Javascript, CSS, API HTML  |"<a href="https://github.com/lyanasky/Weather-App-Project"<WeatherApp > </a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| R                                                | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
