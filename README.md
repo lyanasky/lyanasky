@@ -61,7 +61,6 @@ Overall, my objective is to make a meaningful impact in the field of technology 
 
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Advanced%20Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/-SheCodes.io-FF69B4?style=for-the-badge&logo=SheCodes&logoColor=white" />
@@ -69,6 +68,8 @@ Overall, my objective is to make a meaningful impact in the field of technology 
 <img src="https://img.shields.io/badge/-Saylor%20Academy%20Project%20Management-336699?style=for-the-badge&logo=Saylor%20Academy&logoColor=white" />
 <img src="https://img.shields.io/badge/-Saylor%20Academy%20Human%20Resources-336699?style=for-the-badge&logo=Saylor%20Academy&logoColor=white" />
   <img src="https://img.shields.io/badge/-Saylor%20Academy%20Customer%20Service-336699?style=for-the-badge&logo=Saylor%20Academy&logoColor=white" /> 
+   <img src="https://img.shields.io/badge/-Google%20Professional%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+   
 </div>
 
 ## Projects
