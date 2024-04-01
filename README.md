@@ -53,6 +53,10 @@ Overall, my objective is to make a meaningful impact in the field of technology 
    <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=R&logoColor=white" />
    <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
    <img src="https://img.shields.io/badge/-PowerApps-008272?style=for-the-badge&logo=powerapps&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft%20excel&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Google%20Sheets-34A853?style=for-the-badge&logo=google%20sheets&logoColor=white" />
+   <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+   <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </div>
 
 
@@ -68,6 +72,9 @@ Overall, my objective is to make a meaningful impact in the field of technology 
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- React Weather App
+- Vanilla Weather App
+- PowerApps Challenge
+- Bellabeat Capstone
+- Cyclisic Bike-Share
 
