@@ -3,7 +3,7 @@
 
 Meet Eliana Walters, a versatile professional with a passion for learning and technology. With a background in English and years of experience as an administrative manager, I embarked on an exciting career transition into the tech industry.
 
-Driven by curiosity and a desire to expand her skill set, I turned to SheCodes.io to learn the foundations of front-end development. Through their engaging workshops, I gained practical knowledge in HTML, CSS, and JavaScript, equipping me with the tools to build captivating user interfaces.
+Driven by curiosity and a desire to expand my skill set, I turned to SheCodes.io to learn the foundations of front-end development. Through their engaging workshops, I gained practical knowledge in HTML, CSS, and JavaScript, equipping me with the tools to build captivating user interfaces.
 
 Eager to delve deeper into the world of data analysis, I pursued training with Google, honing my analytical skills and uncovering valuable insights from complex datasets. My expertise in data analysis allows me to make data-driven decisions and contribute to business growth.
 
