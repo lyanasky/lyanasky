@@ -75,4 +75,6 @@ Overall, my objective is to make a meaningful impact in the field of technology 
 - PowerApps Challenge
 - Bellabeat Capstone
 - Cyclisic Bike-Share
+- Netflix Analysis
+- Human Resources
 
