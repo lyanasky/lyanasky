@@ -1,37 +1,32 @@
 # Hello, I'm Eliana Walters
 <a href="https://https://www.linkedin.com/in/eliana-walters-5614751a2/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Meet Eliana Walters, a versatile professional with a passion for learning and technology. With a background in English and years of experience as an administrative manager, I embarked on an exciting career transition into the tech industry.
+Meet Eliana Walters, a versatile professional fueled by a genuine passion for harnessing technology to optimize business processes and enable data-driven decision-making. My journey has been anything but conventional, showcasing my adaptability and commitment to lifelong learning. With a Bachelor of Arts in English Language and Linguistics from the University of Abuja, I initially honed my organizational and process management skills as an Administrative Manager at Wallyx Allied Services LTD. It was there that my fascination with technology blossomed, leading me to pursue a career in the tech industry, driven by an insatiable curiosity and a desire to make a real difference.
 
-Driven by curiosity and a desire to expand my skill set, I turned to SheCodes.io to learn the foundations of front-end development. Through their engaging workshops, I gained practical knowledge in HTML, CSS, and JavaScript, equipping me with the tools to build captivating user interfaces.
+My tech adventure kicked off at SheCodes, where I dove into the world of front-end development. Through hands-on workshops, I gained practical experience in HTML, CSS, and JavaScript, empowering me to create engaging and user-friendly interfaces. A standout moment was my role at Mars, where I designed user requirements for a responsive e-commerce site, leading to a remarkable 40% increase in user engagement within just the first month. This experience solidified my appreciation for user experience principles and their impact on business success.
 
-Eager to delve deeper into the world of data analysis, I pursued training with Google, honing my analytical skills and uncovering valuable insights from complex datasets. My expertise in data analysis allows me to make data-driven decisions and contribute to business growth.
+Understanding the pivotal role of data in shaping effective business strategies, I sought further knowledge through Google’s Data Analytics and Advanced Data Analytics Professional Certificates. These certifications, combined with my hands-on experience at Albos Consulting, where my data analysis contributed to a 15% increase in market share and revenue, have equipped me with the skills to extract actionable insights from complex datasets. My proficiency in SQL (MySQL), R, and Python allows me to manipulate and analyze data effectively, while tools like Tableau, Microsoft Power BI, and Google Analytics help me visualize those insights.
 
-But my learning journey didn't stop there. Intrigued by the power of low-code and no-code platforms, I delved into Microsoft Power Apps, becoming a proficient functional consultant. Leveraging Power Apps, I have empowered organizations to streamline their processes and create innovative solutions without extensive coding knowledge.
+Eager to expand my toolkit, I became a proficient functional consultant in Microsoft Power Apps. This role has allowed me to empower organizations to streamline their processes and create innovative solutions without requiring extensive coding knowledge. My expertise in low-code and no-code platforms complements my business analysis skills, enabling me to bridge the gap between technical and non-technical stakeholders seamlessly. My formal training in Business Analysis and Project Management from Tritek Academy, along with my practical experiences—like managing requirements and reducing project scope creep by 25% at Tiege Consult—have refined my ability to gather requirements, map processes, and develop use cases and user stories. I am well-versed in methodologies such as Agile, Scrum, Waterfall, and Kanban, and utilize tools like Visio, Jira, Balsamic, Lucidchart, Confluence, and BPMN.
 
-With my friendly demeanor and adaptable nature, Eliana is a collaborative team member, always ready to take on new challenges and contribute to the success of projects. My diverse background and continuous pursuit of knowledge makes me a valuable asset in the ever-evolving tech industry.
+I thrive in collaborative environments and enjoy embracing new challenges with a positive attitude. My skills in technical writing, presentations, and facilitating process workshops enable me to communicate complex technical concepts to a variety of audiences effectively. I also have experience in conflict resolution and negotiation, which enhances my contributions to team dynamics.
 
-In my free time, I enjoy exploring new technologies, staying up-to-date with industry trends, and sharing my knowledge with others. I'm  excited to continue my growth as a tech professional, leveraging my skills to make a meaningful impact in the digital world.
+Outside of work, I’m passionate about exploring emerging technologies and staying updated with industry trends. I actively participate in the tech community, driven by a desire to make a meaningful impact in the digital world. I aim to leverage my diverse skill set and analytical mindset to drive innovation and tackle complex business challenges. Ultimately, I aspire to contribute to organizations looking for data-driven solutions, optimized processes, and enhanced user experiences.
+
+
 
 ## Objective
 
-- To leverage my technical skills and analytical mindset to drive data-driven decision-making within organizations.
+Drive Data-Informed Decisions: Apply my expertise in data analysis, utilizing tools like SQL, R, Python, Tableau, and Power BI, to extract actionable insights from complex datasets, identify trends, and empower organizations to make informed strategic decisions.
 
-- To utilize my expertise in front-end development, data analysis, and low-code/no-code platforms to develop innovative solutions that optimize business processes and enhance user experiences.
+Develop Innovative Solutions: Leverage my proficiency in front-end development (HTML, CSS, JavaScript, React) and low-code/no-code platforms (Microsoft Power Apps) to create and implement user-focused solutions that optimize business processes and enhance user experiences.
 
-- To contribute to the growth and success of companies by extracting valuable insights from complex datasets, identifying trends, and providing actionable recommendations for strategic planning and business optimization.
+Foster Collaborative Growth: Contribute to a collaborative and knowledge-sharing environment within cross-functional teams, effectively communicating technical concepts to both technical and non-technical stakeholders, and mentoring aspiring analysts.
 
-- To stay updated with the latest advancements in technology and data analysis, continuously expanding my knowledge and skill set to remain at the forefront of the industry.
+Champion Continuous Improvement: Continuously expand my knowledge and skillset in business analysis, project management, and emerging technologies to remain at the forefront of the industry and contribute to the development and implementation of data-driven strategies that enhance operational efficiency, customer satisfaction, and business growth.
 
-- To collaborate with cross-functional teams, fostering a culture of collaboration and knowledge sharing, and working together to achieve common goals and objectives.
+Make a Tangible Impact: Ultimately, I seek to make a significant contribution to the tech community by applying my skills, experience, and passion to drive innovation, solve complex business problems, and contribute to the overall success of the organizations I serve. I am particularly drawn to opportunities within [IT SECTOR].
 
-- To contribute to the development and implementation of data-driven strategies that enhance operational efficiency, improve customer satisfaction, and drive business growth.
-
-- To apply my strong communication and storytelling skills to effectively communicate complex technical concepts and insights to both technical and non-technical stakeholders, bridging the gap between data analysis and business decision-making.
-
-- To actively contribute to the tech community by sharing knowledge, mentoring aspiring analysts, and participating in industry events and forums.
-
-Overall, my objective is to make a meaningful impact in the field of technology and data analysis by leveraging my skills, expertise, and passion to drive innovation, solve complex problems, and contribute to the success of organizations.
 
 ## Skills
 
