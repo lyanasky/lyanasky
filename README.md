@@ -32,6 +32,7 @@ Outside of work, I’m passionate about exploring emerging technologies and stay
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Business Process Model And Notation (BPMN)          | 
 | React js, Javascript, Bootstrap, Html, Css          | <a href="https://github.com/lyanasky/weather-react"<React WeatherApp></a>|
 | Javascript, CSS, API HTML  |"<a href="https://github.com/lyanasky/Weather-App-Project"<WeatherApp > </a>|
 | R                                                | <a href="https://lyanasky.github.io/bellabeat_project/"|
