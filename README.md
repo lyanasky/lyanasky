@@ -17,15 +17,15 @@ Outside of work, I’m passionate about exploring emerging technologies and stay
 
 ## Objective
 
-Drive Data-Informed Decisions: Apply my expertise in data analysis, utilizing tools like SQL, R, Python, Tableau, and Power BI, to extract actionable insights from complex datasets, identify trends, and empower organizations to make informed strategic decisions.
+-Drive Data-Informed Decisions: Apply my expertise in data analysis, utilizing tools like SQL, R, Python, Tableau, and Power BI, to extract actionable insights from complex datasets, identify trends, and empower organizations to make informed strategic decisions.
 
-Develop Innovative Solutions: Leverage my proficiency in front-end development (HTML, CSS, JavaScript, React) and low-code/no-code platforms (Microsoft Power Apps) to create and implement user-focused solutions that optimize business processes and enhance user experiences.
+-Develop Innovative Solutions: Leverage my proficiency in front-end development (HTML, CSS, JavaScript, React) and low-code/no-code platforms (Microsoft Power Apps) to create and implement user-focused solutions that optimize business processes and enhance user experiences.
 
-Foster Collaborative Growth: Contribute to a collaborative and knowledge-sharing environment within cross-functional teams, effectively communicating technical concepts to both technical and non-technical stakeholders, and mentoring aspiring analysts.
+-Foster Collaborative Growth: Contribute to a collaborative and knowledge-sharing environment within cross-functional teams, effectively communicating technical concepts to both technical and non-technical stakeholders, and mentoring aspiring analysts.
 
-Champion Continuous Improvement: Continuously expand my knowledge and skillset in business analysis, project management, and emerging technologies to remain at the forefront of the industry and contribute to the development and implementation of data-driven strategies that enhance operational efficiency, customer satisfaction, and business growth.
+-Champion Continuous Improvement: Continuously expand my knowledge and skillset in business analysis, project management, and emerging technologies to remain at the forefront of the industry and contribute to the development and implementation of data-driven strategies that enhance operational efficiency, customer satisfaction, and business growth.
 
-Make a Tangible Impact: Ultimately, I seek to make a significant contribution to the tech community by applying my skills, experience, and passion to drive innovation, solve complex business problems, and contribute to the overall success of the organizations I serve. I am particularly drawn to opportunities within [IT SECTOR].
+-Make a Tangible Impact: Ultimately, I seek to make a significant contribution to the tech community by applying my skills, experience, and passion to drive innovation, solve complex business problems, and contribute to the overall success of the organizations I serve. I am particularly drawn to opportunities within [IT SECTOR].
 
 
 ## Skills
